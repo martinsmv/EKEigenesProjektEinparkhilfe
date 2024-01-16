@@ -26,4 +26,5 @@ Das Arduino-Programm implementiert einen einfachen HTTP-Server, der die Distanz 
 
 ## **Quellen**
 
-Keine spezifischen Quellen für dieses Beispiel. Der Code wurde auf Basis allgemeiner Arduino- und WiFi-Bibliotheken erstellt.
+https://www.youtube.com/watch?v=ApGwxX6VVzk
+https://forum.arduino.cc/t/http-request-esp32-to-local-ip/1119294
